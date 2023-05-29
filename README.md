@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Machine Learning, Artificial Intelligence, and Neural Networks
 - 📫 How to reach me [Linkendin](https://www.linkedin.com/in/parakhonych/)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+---
+
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vparakhonych&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
