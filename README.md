@@ -1,6 +1,7 @@
 - 👋 I’m Volodymyr Parakhonych
 - 👀 I’m interested in neural networks, chess, and world history.
-- 🌱 I’m currently learning Machine Learning, Artificial In
+- 🌱 Now I'm currently learning back end development using various technologies, 
+if you have something interesting in this direction, you can contact me. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-parakhonych-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parakhonych)
 
 ---
